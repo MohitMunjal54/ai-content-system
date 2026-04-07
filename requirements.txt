@@ -1,0 +1,6 @@
+yt-dlp
+snscrape
+beautifulsoup4
+requests
+openai
+python-dotenv
